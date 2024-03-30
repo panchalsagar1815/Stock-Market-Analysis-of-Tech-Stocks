@@ -1,4 +1,4 @@
-# Stock-Market-Analysis-of-Tech-Stocks
+# Stock-Market-Analysis-of-Tech
 
 **Project: Stock Market Analysis for Tech Stocks**
 
