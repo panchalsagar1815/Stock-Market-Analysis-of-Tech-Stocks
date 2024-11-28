@@ -21,4 +21,15 @@ The "Stock Market Analysis for Tech Stocks" project aims to analyze and predict 
    - Visualized the stock price data using Seaborn, Matplotlib, and other visualization tools to identify patterns and trends.
    - Conducted Exploratory Data Analysis (EDA) to gain insights into the relationships between various factors and stock prices.
 
+**ETL (Extract, Transform, Load):**
+1. **Data Processing and Storage:**
+   - Processed and stored the analyzed stock price data in a structured format for future use.
+   - Ensured data integrity and security during the ETL process.
 
+**Predictive Analysis:**
+1. **Forecasting:**
+   - Applied time-series forecasting techniques to predict future stock prices based on historical data.
+   - Evaluated the performance of forecasting models using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+
+**Conclusion:**
+The "Stock Market Analysis for Tech Stocks" project provides valuable insights into the performance and behaviour of technology companies in the stock market. By leveraging data analysis, visualization, and predictive modelling techniques, the project enables investors and stakeholders to make informed decisions regarding their investment strategies. Future enhancements may include integrating additional data sources, advanced predictive modelling algorithms, and real-time monitoring for dynamic analysis of stock market trends.
